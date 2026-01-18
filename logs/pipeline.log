@@ -1,0 +1,48 @@
+2026-01-16 17:12:31 | INFO | Input: data\bank.csv
+2026-01-16 17:12:31 | INFO | Raw shape: (11162, 17)
+2026-01-16 17:12:31 | INFO | Metrics: acc=0.7721, f1=0.7540, auc=0.857127458472429
+2026-01-16 17:12:31 | INFO | Saved chart: dashboards\01_target_distribution.png
+2026-01-16 17:12:31 | INFO | Saved chart: dashboards\02_confusion_matrix.png
+2026-01-16 17:12:32 | INFO | Saved chart: dashboards\03_probability_distribution.png
+2026-01-16 17:12:32 | INFO | Saved: outputs\metrics.json
+2026-01-16 17:12:32 | INFO | Saved: outputs\predictions.csv
+2026-01-16 17:12:32 | INFO | Saved: models\model.joblib
+2026-01-16 17:12:32 | INFO | Charts saved in: dashboards/
+2026-01-16 17:12:32 | INFO | Log: logs\pipeline.log
+2026-01-16 17:12:32 | INFO | DONE
+2026-01-16 17:13:03 | INFO | Input: data\bank.csv
+2026-01-16 17:13:03 | INFO | Raw shape: (11162, 17)
+2026-01-16 17:13:03 | INFO | Metrics: acc=0.7721, f1=0.7540, auc=0.857127458472429
+2026-01-16 17:13:03 | INFO | Saved chart: dashboards\01_target_distribution.png
+2026-01-16 17:13:03 | INFO | Saved chart: dashboards\02_confusion_matrix.png
+2026-01-16 17:13:04 | INFO | Saved chart: dashboards\03_probability_distribution.png
+2026-01-16 17:13:04 | INFO | Saved: outputs\metrics.json
+2026-01-16 17:13:04 | INFO | Saved: outputs\predictions.csv
+2026-01-16 17:13:04 | INFO | Saved: models\model.joblib
+2026-01-16 17:13:04 | INFO | Charts saved in: dashboards/
+2026-01-16 17:13:04 | INFO | Log: logs\pipeline.log
+2026-01-16 17:13:04 | INFO | DONE
+2026-01-17 21:57:56 | INFO | Input: data\bank.csv
+2026-01-17 21:57:56 | INFO | Raw shape: (11162, 17)
+2026-01-17 21:57:56 | INFO | Metrics: acc=0.7721, f1=0.7540, auc=0.8571282628805857
+2026-01-17 21:57:56 | INFO | Saved chart: dashboards\01_target_distribution.png
+2026-01-17 21:57:57 | INFO | Saved chart: dashboards\02_confusion_matrix.png
+2026-01-17 21:57:57 | INFO | Saved chart: dashboards\03_probability_distribution.png
+2026-01-17 21:57:57 | INFO | Saved: outputs\metrics.json
+2026-01-17 21:57:57 | INFO | Saved: outputs\predictions.csv
+2026-01-17 21:57:57 | INFO | Saved: models\model.joblib
+2026-01-17 21:57:57 | INFO | Charts saved in: dashboards/
+2026-01-17 21:57:57 | INFO | Log: logs\pipeline.log
+2026-01-17 21:57:57 | INFO | DONE
+2026-01-17 22:44:54 | INFO | Input: data\bank.csv
+2026-01-17 22:44:54 | INFO | Raw shape: (11162, 17)
+2026-01-17 22:44:55 | INFO | Metrics: acc=0.7721, f1=0.7540, auc=0.8571282628805857
+2026-01-17 22:44:55 | INFO | Saved chart: dashboards\01_target_distribution.png
+2026-01-17 22:44:55 | INFO | Saved chart: dashboards\02_confusion_matrix.png
+2026-01-17 22:44:56 | INFO | Saved chart: dashboards\03_probability_distribution.png
+2026-01-17 22:44:56 | INFO | Saved: outputs\metrics.json
+2026-01-17 22:44:56 | INFO | Saved: outputs\predictions.csv
+2026-01-17 22:44:56 | INFO | Saved: models\model.joblib
+2026-01-17 22:44:56 | INFO | Charts saved in: dashboards/
+2026-01-17 22:44:56 | INFO | Log: logs\pipeline.log
+2026-01-17 22:44:56 | INFO | DONE
