@@ -1,0 +1,12 @@
+{
+  "input": "data\\bank.csv",
+  "rows": 11162,
+  "cols": 17,
+  "train_rows": 8929,
+  "test_rows": 2233,
+  "accuracy": 0.7720555306762203,
+  "f1": 0.7539874335427743,
+  "roc_auc": 0.8571282628805857,
+  "run_time_sec": 0.426,
+  "timestamp": "2026-01-17T22:44:55"
+}
